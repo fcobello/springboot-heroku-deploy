@@ -1,0 +1,7 @@
+{
+    "name": "SpringBoot Heroku Deploy",
+    "description": "Sample Heroku Deploy",
+    "repository": "https://github.com/fcobello/springboot-heroku-deploy",
+    "logo": "https://1.bp.blogspot.com/-gm4NeXEmMlI/WWzANny8OxI/AAAAAAAAOho/W52xSi8UT1cYc5zhO2NITU6XA-132GcBACLcBGAs/s1600/spring-boot-project-logo.png",
+    "keywords": ["springboot", "heroku"]
+  }
